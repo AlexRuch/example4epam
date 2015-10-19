@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">TEST_19_DESIGN</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tours">ToursActivity</string>
+    <string name="title_activity_piece">PieceActivity</string>
+    <string name="title_activity_expo">ExpoActivity</string>
+
+    <string-array name="tours">
+        <item>Классика</item>
+        <item>Готика</item>
+        <item>Ренессанс</item>
+        <item>Барокко</item>
+        <item>Миинимализм</item>
+        <item>Пост-модерн</item>
+        <item>Конструктивизм</item>
+        <item>Реализм</item>
+        <item>Абстракционизм</item>
+        <item>Сюрриализм</item>
+        <item>Примитивизм</item>
+    </string-array>
+
+    <string-array name="expo">
+        <item>Эдуард Яшин</item>
+        <item>Сергей Карев</item>
+        <item>Михаил Блинов</item>
+        <item>Михаил Севастьянов</item>
+        <item>Владимир Трямкин</item>
+        <item>Владимир Григ</item>
+    </string-array>
+
+    <string-array name="piece">
+        <item>The Ninth Wave</item>
+        <item>Bogatirus</item>
+        <item>Bears in wood</item>
+        <item>Mona Liza</item>
+    </string-array>
+
+
+
+    <string name="about">\n \n Welcome to The House Of Artist.</string>
+
+    <string name="howto">
+        What for:
+        \n
+        \n This app was created in order to assist in guiding the Central House of Artists.
+        \n
+        \n
+        \n -You can choose the tour route
+    </string>
+    <string name="howto2">
+        - You can see the exhibition presented today
+    </string>
+    <string name="howto3">
+        - You can find the exhibit
+    </string>
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="building">image</string>
+    <string name="title_activity_piece_info">PieceInfoActivity</string>
+    
+    
+    
+    <string name="ninth_wave">The Ninth Wave (Russian: Девятый вал, Dyevyatiy val) is an 1850 painting
+        by the Russian Armenian marine painter Ivan Aivazovsky. It is his best known work.
+        The titles refer to the nautical tradition that waves grow larger and larger in a series up to the largest
+        wave, the ninth (or tenth) wave, at which point the series starts again.
+        It depicts a sea after a night storm and people facing death attempting to save themselves by clinging to
+        debris from a wrecked ship. The painting has warm tones in which the sea appears to be not so menacing and
+        giving a chance for the people to survive.</string>
+
+    <string name="bogatirus">"Heroes" - painting by Viktor Vasnetsov. Vasnetsov worked on the painting for almost twenty years. April 23,
+        1898 it was finished and soon bought by Pavel Tretyakov for his gallery.
+    </string>
+
+
+
+</resources>
